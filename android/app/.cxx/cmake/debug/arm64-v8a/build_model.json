@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\flutter_test\\health_app\\android",
+      "sdkFolder": "C:\\Users\\z0042jxs\\AppData\\Local\\Android\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\flutter_test\\health_app\\build\\app\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\flutter_test\\health_app\\android\\app",
+      "makeFile": "D:\\flutter_test\\health_app\\android\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\flutter_test\\health_app\\android\\.cxx",
+      "cxxFolder": "D:\\flutter_test\\health_app\\android\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\z0042jxs\\AppData\\Local\\Android\\sdk\\ndk\\22.0.7026061",
+      "ndkVersion": "22.0.7026061",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\flutter_test\\health_app\\build\\app\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\flutter_test\\health_app\\build\\app\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "D:\\flutter_test\\health_app\\build\\app\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

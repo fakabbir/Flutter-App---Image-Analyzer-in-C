@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\flutter_test\\health_app\\android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\z0042jxs\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "convertImage-Debug-x86_64": {
+      "artifactName": "convertImage",
+      "buildCommand": "C:\\Users\\z0042jxs\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\flutter_test\\health_app\\android\\app\\.cxx\\cmake\\debug\\x86_64 --target convertImage",
+      "abi": "x86_64",
+      "output": "D:\\flutter_test\\health_app\\build\\app\\intermediates\\cmake\\debug\\obj\\x86_64\\libconvertImage.so"
+    }
+  }
+}

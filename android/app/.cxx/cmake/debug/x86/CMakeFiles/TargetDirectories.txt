@@ -1,0 +1,3 @@
+D:/flutter_test/health_app/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+D:/flutter_test/health_app/android/app/.cxx/cmake/debug/x86/CMakeFiles/convertImage.dir
+D:/flutter_test/health_app/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir

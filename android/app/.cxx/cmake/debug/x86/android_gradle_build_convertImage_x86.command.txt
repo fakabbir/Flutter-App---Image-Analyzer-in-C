@@ -1,0 +1,8 @@
+Executable : C:\Users\z0042jxs\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+D:\flutter_test\health_app\android\app\.cxx\cmake\debug\x86
+--target
+convertImage
+jvmArgs : 
+
